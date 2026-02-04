@@ -2,7 +2,7 @@
 
 
 <h4>Instrukcja uruchomienia</h4>
-1. Zainstaluj serwer lokalny, np. XAMPP.
+<p>2</p>1. Zainstaluj serwer lokalny, np. XAMPP.
 2. Włącz Apache i MySQL.
 3. Pobierz projekt z GitHub
 4. Skopiuj folder projektu do katalogu serwera, "htdocs" w XAMPP.
