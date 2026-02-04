@@ -11,9 +11,9 @@
 <p>6. Utwórz nową bazę danych o nazwie wypozyczalnia.</p>
 <p>7. Zaimportuj plik wypozyczalnia.sql, aby utworzyć tabele i przykładowe dane.</p>
 <h2>Konfiguracja połączenia z bazą</h2>
-<p>8. Sprawdź plik db_connect.php.</p>
-W razie potrzeby zmień parametry połączenia z bazą danych ($host, $dbname, $user, $pass).
+<p>8. Sprawdź plik db_connect.php.
+W razie potrzeby zmień parametry połączenia z bazą danych ($host, $dbname, $user, $pass).</p>
 <h2>Uruchomienie strony</h2>
 <p>9. Otwórz przeglądarkę i wpisz adres:
 http://localhost/wypozyczalnia/index.php
-Strona powinna się załadować, a dostępne funkcjonalności będą aktywne.
+Strona powinna się załadować, a dostępne funkcjonalności będą aktywne.</p>
