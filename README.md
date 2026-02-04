@@ -1,5 +1,10 @@
 # Wypozyczalnia-Aut
 
+<h1>Technologie wykorzystane w projekcie</h1>
+<p>Frontend:HTML, CSS, JavaScript </p>
+<p>Backend: PHP</p>
+<p>Baza danych: MySQL</p>
+<p>Narzędzia i testy: rozszerzenie przeglądarkowe Lighthouse</p>
 
 <h2>Instrukcja uruchomienia</h2>
 <p>1. Zainstaluj serwer lokalny, np. XAMPP.</p>
