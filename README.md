@@ -1,12 +1,12 @@
 # Wypozyczalnia-Aut
 
 
-<h4>Instrukcja uruchomienia</h4>
+<h2>Instrukcja uruchomienia</h2>
 <p>1. Zainstaluj serwer lokalny, np. XAMPP.</p>
 <p>2. Włącz Apache i MySQL.</p>
 <p>3. Pobierz projekt z GitHub</p>
 <p>4. Skopiuj folder projektu do katalogu serwera, "htdocs" w XAMPP.</p>
-<h4>Konfiguracja bazy danych</h4>
+<h2>Konfiguracja bazy danych</h2>
 5. Otwórz phpMyAdmin.
 6. Utwórz nową bazę danych o nazwie wypozyczalnia.
 7. Zaimportuj plik wypozyczalnia.sql, aby utworzyć tabele i przykładowe dane.
