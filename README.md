@@ -1,7 +1,7 @@
 # Wypozyczalnia-Aut
 
 
-Instrukcja uruchomienia
+<p>Instrukcja uruchomienia</p>
 1. Zainstaluj serwer lokalny, np. XAMPP.
 2. Włącz Apache i MySQL.
 3. Pobierz projekt z GitHub
@@ -10,10 +10,10 @@ Instrukcja uruchomienia
 5. Otwórz phpMyAdmin.
 6. Utwórz nową bazę danych o nazwie wypozyczalnia.
 7. Zaimportuj plik wypozyczalnia.sql, aby utworzyć tabele i przykładowe dane.
-#Konfiguracja połączenia z bazą
+<p>Konfiguracja połączenia z bazą</p>
 8. Sprawdź plik db_connect.php.
 W razie potrzeby zmień parametry połączenia z bazą danych ($host, $dbname, $user, $pass).
-#Uruchomienie strony
+<p>Uruchomienie strony</p>
 9. Otwórz przeglądarkę i wpisz adres:
 http://localhost/wypozyczalnia/index.php
 Strona powinna się załadować, a dostępne funkcjonalności będą aktywne.
