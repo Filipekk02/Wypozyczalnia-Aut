@@ -6,7 +6,7 @@ Instrukcja uruchomienia
 2. Włącz Apache i MySQL.
 3. Pobierz projekt z GitHub
 4. Skopiuj folder projektu do katalogu serwera, "htdocs" w XAMPP.
-#Konfiguracja bazy danych
+<p>Konfiguracja bazy danych</p>
 5. Otwórz phpMyAdmin.
 6. Utwórz nową bazę danych o nazwie wypozyczalnia.
 7. Zaimportuj plik wypozyczalnia.sql, aby utworzyć tabele i przykładowe dane.
