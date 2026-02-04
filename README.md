@@ -1,7 +1,7 @@
 # Wypozyczalnia-Aut
 
 
-<h4>Instrukcja uruchomienia<h4>
+<h4>Instrukcja uruchomienia</h4>
 1. Zainstaluj serwer lokalny, np. XAMPP.
 2. Włącz Apache i MySQL.
 3. Pobierz projekt z GitHub
